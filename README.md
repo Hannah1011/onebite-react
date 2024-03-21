@@ -4,4 +4,4 @@
 - 깃허브에는 실습 파일을 올려놓되, 따로 얻은 인사이트 및 공부 자료는 노션에 정리하고 있다. (24/03/22)
   <br> 그럼 파이팅이야💛
   <br>
-  https://i.pinimg.com/564x/65/11/c3/6511c3f941ca3ab2c3e12f7914135418.jpg![Uploading image.png…]()
+  ![dfd541e3fdc0453e0fecc0599159ab69](https://github.com/Hannah1011/onebite-react/assets/108389766/f112cb7b-68b0-4e81-bb62-d94afa35dd67)
